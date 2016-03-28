@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "andy"]
+	url = git@github.com:Andyvs/desing_and_code.git
+	fetch = +refs/heads/*:refs/remotes/andy/*

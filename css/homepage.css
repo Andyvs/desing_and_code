@@ -1,0 +1,106 @@
+#header {
+    background-color:#696969;
+    color:white;
+    /*padding:20px;*/
+    border:1px solid white;
+}
+
+#Logo{
+    /*background-image: url(/vanand/desing_and_code/images/envato.jpg);*/
+	float: left;
+	padding: 5px;
+}
+
+#homeTogle{
+/*	float: left;*/
+	padding: 15px;
+    border-color:
+}
+
+ul#menu {
+    list-style: none;
+}
+
+ul#menu li a{
+    font-size: 20px;
+    /*background-color: black;*/
+    color: white;
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+ 
+ul#menu li {
+    float: left;
+}
+
+ul#menu li a:hover {
+    background-color: orange;
+}
+
+#login a{
+	/*float: right;*/
+	text-align: right;
+	padding: 5px;
+    text-decoration:none;
+    color: white;
+    }
+
+#login a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+#login a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline; 
+}
+#login a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:450px;
+    width:150px;
+    float:left;
+    padding:5px;
+    border:2px solid white;
+    border-right-color: #696969;	      
+}
+#section {
+    width:950px;
+    float:left;
+    padding:10px;
+    text-align: justify;
+}
+
+#frmName{
+	background-color: yellow;
+	float: center;
+	padding: 5px;
+/*    width: 210px;
+    height: 120px;*/
+}
+
+#rightnav{
+	line-height:30px;
+	background-color: #eeeeee;
+	height: 450px;
+	width: 180px;
+	padding: 5px;
+	float: right;
+    border:2px solid white;
+    border-left-color: #696969;
+}
+
+#footer {
+    background-color:#696969;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
