@@ -1,3 +1,9 @@
+/*
+The code below will change is for validating the login details.
+@ fname : User First Name
+@ lname : User Last Name
+*/
+
 function validate_me()
 {
  var fname = document.getElementById("fname").value;
